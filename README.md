@@ -14,4 +14,5 @@ Be able to save your plants to your collections so you dont have to search each 
 Should have
 
 Be able to see friends plants.
+
 Be able to make a note about a plant.
