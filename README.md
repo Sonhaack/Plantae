@@ -9,6 +9,7 @@ With Plantae app it will be easier to find out whether your plant needs a lot of
 Must have
 
 Be able to search for a plant and find information about the plan.
+
 Be able to save your plants to your collections so you dont have to search each time.
 
 Should have
